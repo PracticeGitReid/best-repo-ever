@@ -39,3 +39,5 @@ git checkout -b new-branch-2
 git add README.md
 git commit -m "More changes to the README"
 git checkout main
+git pull
+git status
